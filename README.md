@@ -1,2 +1,2 @@
 # Schrodinger-Equation-Solver
-Wave function plot for well behaved functions
+Wave function plotter for well behaved functions
